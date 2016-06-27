@@ -10,3 +10,5 @@ deployment:
 test:
   override:    
     - mocha
+
+    #should work now
